@@ -1,1 +1,0 @@
-# Vraag aan de gebruiker een naam. Als de naam gelijk is aan John of aan Jane, dan toon je "Dag John/Jane".

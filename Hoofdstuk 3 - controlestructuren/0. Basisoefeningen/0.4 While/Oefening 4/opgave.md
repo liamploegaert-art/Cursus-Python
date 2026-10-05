@@ -1,1 +1,0 @@
-# Maak een programma die een getal vraagt en deelt door 2 zolang dit groter is dan 100.

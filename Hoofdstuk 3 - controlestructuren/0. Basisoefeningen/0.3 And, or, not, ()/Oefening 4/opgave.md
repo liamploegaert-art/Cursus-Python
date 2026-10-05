@@ -1,1 +1,0 @@
-# Vraag aan de gebruiker een geheel getal. Toon aan de gebruiker "Yes!" of het een strikt positief (groter dan 0), even getal (deelbaar door 2) is, tenzij het -100.

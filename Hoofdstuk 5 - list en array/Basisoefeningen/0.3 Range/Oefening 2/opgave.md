@@ -1,1 +1,0 @@
-# Toon alle getallen van 1 tot 6

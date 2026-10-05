@@ -1,1 +1,0 @@
-# Vraag aan de gebruiker een geheel getal. Als het getal niet gelijk is aan 0, dan toon je dit getal nogmaals op het scherm.

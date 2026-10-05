@@ -1,1 +1,0 @@
-# Maak een programma die een naam van een gebruiker vraagt, tot deze iets ingeeft (dus niet leeg). Begroet vervolgens de gebruiker met 'Welkom naam!'.

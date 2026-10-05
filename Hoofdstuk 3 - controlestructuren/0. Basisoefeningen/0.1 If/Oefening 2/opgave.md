@@ -1,1 +1,0 @@
-# Vraag aan de gebruiker een naam. Als de naam gelijk is aan John, toon je "Hallo John" op het scherm.
